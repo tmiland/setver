@@ -1,3 +1,5 @@
+[![Sponsor @tmiland](https://img.shields.io/badge/Sponsor-%40tmiland-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/tmiland)
+
 ![GitHub tag](https://img.shields.io/github/v/tag/pforret/setver)
 ![Shellcheck CI](https://github.com/pforret/setver/workflows/Shellcheck%20CI/badge.svg)
 ![Bash CI](https://github.com/pforret/setver/workflows/Bash%20CI/badge.svg)
